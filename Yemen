@@ -1,2 +1,3 @@
-#"Country","Alpha-2 code","Alpha-3 code","Numeric code","Latitude (average)","Longitude (average)"
-#"Yemen", "YE", "YEM", "887", "15", "48"
+|Country|Alpha-2 code | Alpha-3 code | Numeric code| Latitude (average)| Longitude (average)|
+-------------------------------------------------------------------------------------------------
+|Yemen|YE|YEM|887|15|48|
